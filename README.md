@@ -9,7 +9,6 @@
 
 Hi guys! I'm a computer guy trying my best to discover the technology world, and my target is to become an admirable and knowledgable DevOps Engineer!
 
-<img align="right" alt="img" src="https://github.com/thainm-uet/thainm-uet/blob/main/its-devops.png" width="50%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
