@@ -14,13 +14,9 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 #### 🌱 Things I am currently working on: 
 - Finding who I am!!
 - Work so hard as a Network Engineer in FPT jetking
+- Work so hard as Data Engineer in GreenWich University
 - Discover new hobbies: films, games, baseball, ...
 
 
 
-#### :computer: Programming languages and tools: 
 
-<div>
-	
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai-nm&layout=compact&theme=monokai" />
-</div>
